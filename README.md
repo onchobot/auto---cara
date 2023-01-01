@@ -1,5 +1,5 @@
 
-> Otevřít tuto stránku v aplikaci [https://onchobot.github.io/auto---cara/](https://onchobot.github.io/auto---cara/)
+> Otevřít tuto stránku v aplikaci [https://onchobot.github.io/car-line/](https://onchobot.github.io/car-line/)
 
 ## Použít jako rozšíření
 
@@ -8,22 +8,22 @@ Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Nový projekt**
 * klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
-* vyhledat **https://github.com/onchobot/auto---cara** a importovat
+* vyhledat **https://github.com/onchobot/car-line** a importovat
 
-## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/onchobot/auto---cara/workflows/MakeCode/badge.svg)
+## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/onchobot/car-line/workflows/MakeCode/badge.svg)
 
 Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Import** a poté na **Import adresy URL**
-* vložte **https://github.com/onchobot/auto---cara** a klikněte na možnost import
+* vložte **https://github.com/onchobot/car-line** a klikněte na možnost import
 
 ## Náhled bloků
 
 Tento obrázek znázorňuje kód z Bloků od posledního potvrzení v hlavní verzi.
 Tento obrázek se může aktualizovat až za několik minut.
 
-![Vykreslený náhled bloků](https://github.com/onchobot/auto---cara/raw/master/.github/makecode/blocks.png)
+![Vykreslený náhled bloků](https://github.com/onchobot/car-line/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 
